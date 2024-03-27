@@ -26,4 +26,5 @@
 #Merge   
 -버전관리에서 여러 변경사항들을 병합시키는 작업. EX) A branch와 B branch 병합      
 -Merge에는 3가지 옵션이 존재함. Create a merge commit, Squash and merge, Rebase and merge   
--주로 Create a merge commit을 사용함.
+-주로 Create a merge commit을 사용함.   
+https://github.com/suntag0910/2024-1-Beginner-Study/pull/7
